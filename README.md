@@ -11,12 +11,12 @@ A simple list of development tools for MacOSX.
 
 
 ## Terminal
-
+* iTerm
 
 ## Editors
-* Sublime Text (Paid $70) - 
-* Text Mate (Free)- 
-* Atom (Free) ([GitHub](https://github.com/atom/atom)) - 21s code editor
+* [Sublime Text](http://www.sublimetext.com/3)(Paid $70) - Cool code editor
+* [Text Mate](http://macromates.com/) (Free)- OSX Missint code editor
+* [Atom](https://atom.io/) (Free) ([GitHub](https://github.com/atom/atom)) - 21s code editor
 * 
 
 # IDE's
