@@ -5,9 +5,9 @@ A simple list of development tools for MacOSX.
 
 ## Productivity
 * [Alfred](http://www.alfredapp.com/) (Free) - "Shortcuts manager"
-* [Homebrew](http://brew.sh) (Free) - "The missing package manager ..." 
-* [1Password]() (Paid $99)
-* [Spectacle](http://spectacleapp.com/) (Free) - Keyboard window resize 
+* [Homebrew](http://brew.sh) (Free) ([GitHub](https://github.com/Homebrew/homebrew)) - "The missing package manager ..." 
+* [1Password](https://agilebits.com/onepassword) (Paid $99) - Password / Credit Card manager
+* [Spectacle](http://spectacleapp.com/) (Free) ([GitHub](https://github.com/eczarny/spectacle))- Keyboard window resize 
 
 
 ## Terminal
@@ -16,7 +16,7 @@ A simple list of development tools for MacOSX.
 ## Editors
 * Sublime Text (Paid $70) - 
 * Text Mate (Free)- 
-* Atom (Free) - 
+* Atom (Free) ([GitHub](https://github.com/atom/atom)) - 21s code editor
 * 
 
 # IDE's
