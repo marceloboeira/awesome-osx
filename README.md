@@ -4,11 +4,11 @@ MacOSX DevTools
 A simple list of development tools for MacOSX.
 
 ## Productivity
-* [Alfred](http://www.alfredapp.com/) (Free) - "Shortcuts manager"
-* [Homebrew](http://brew.sh) (Free) ([GitHub](https://github.com/Homebrew/homebrew)) - "The missing package manager ..." 
+* [Alfred](http://www.alfredapp.com/) (Free) - Shortcuts manager
+* [Homebrew](http://brew.sh) (Free) ([GitHub](https://github.com/Homebrew/homebrew)) - The missing package manager ...
 * [1Password](https://agilebits.com/onepassword) ($99) - Password / Credit Card manager
-* [Spectacle](http://spectacleapp.com/) (Free) ([GitHub](https://github.com/eczarny/spectacle))- Keyboard window resize 
-
+* [Spectacle](http://spectacleapp.com/) (Free) ([GitHub](https://github.com/eczarny/spectacle))- Keyboard window resizer 
+* [RescueTime](http://www.rescuetime.com/) (Free) - Don't waste any time 
 
 ## Terminal
 * [iTerm](https://iterm2.com/) (Free) - Powerful terminal emulator
@@ -17,7 +17,6 @@ A simple list of development tools for MacOSX.
 * [Sublime Text](http://www.sublimetext.com/3)($70) - Cool code editor
 * [Text Mate](http://macromates.com/) (Free)- OSX Missint code editor
 * [Atom](https://atom.io/) (Free) ([GitHub](https://github.com/atom/atom)) - 21s code editor
-* 
 
 # IDE's
 * [NetBeans](https://netbeans.org/) (Free) - Powerful IDE for Java, HTML5, PHP, C/C++ ...
