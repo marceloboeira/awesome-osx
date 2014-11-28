@@ -34,7 +34,7 @@ A simple list of development tools for MacOSX.
 * [Eclipse](https://eclipse.org/) (Free) - Powerful IDE for Java, PHP ,C++ ...
 * [IntelliJ](https://www.jetbrains.com/idea/) (Freemium) - Smart and powerful Java IDE
 * [Android Studio](https://developer.android.com/sdk/installing/studio.html) (Free) Powerful IDE for Android (IntelliJ Based)
-* [WebStorm](https://www.jetbrains.com/webstorm/) ($49) - Powerful IDE for Node.JS
+* [WebStorm](https://www.jetbrains.com/webstorm/) (Freemium[*](https://github.com/marceloboeira/awesome-macosx-dev-tools/issues/5)) - Powerful IDE for Node.JS
 
 ## Contributors
 * [@marceloboeira](http://github.com/marceloboeira/)
