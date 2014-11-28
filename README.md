@@ -9,6 +9,7 @@ A simple list of development tools for MacOSX.
 * [Shell](#shell)
 * [Editors](#editors)
 * [IDE's](#ides)
+* [Contributors](#contributors)
 
 ## Productivity
 * [Alfred](http://www.alfredapp.com/) (Free) - Shortcuts manager
@@ -34,6 +35,10 @@ A simple list of development tools for MacOSX.
 * [IntelliJ](https://www.jetbrains.com/idea/) ($199) - Smart and powerful Java IDE
 * [Android Studio](https://developer.android.com/sdk/installing/studio.html) (Free) Powerful IDE for Android (IntelliJ Based)
 * [WebStorm](https://www.jetbrains.com/webstorm/) ($49) - Powerful IDE for Node.JS
+
+## Contributors
+* [@marceloboeira](http://github.com/marceloboeira/)
+* [@gpedro](http://github.com/gpedro)
 
 ## Sources
 [@gregoriokusowski](http://github.com/gregoriokusowski) gist - https://gist.github.com/gregoriokusowski/2e3861dc587bdfdf4cd1
