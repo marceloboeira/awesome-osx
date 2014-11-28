@@ -3,6 +3,13 @@ MacOSX DevTools
 
 A simple list of development tools for MacOSX.
 
+## Summary
+* [Productivity](#productivity)
+* [Terminal](#terminal)
+* [Shell](#shell)
+* [Editors](#editors)
+* [IDE's](#ides)
+
 ## Productivity
 * [Alfred](http://www.alfredapp.com/) (Free) - Shortcuts manager
 * [Homebrew](http://brew.sh) (Free) ([GitHub](https://github.com/Homebrew/homebrew)) - The missing package manager ...
@@ -21,7 +28,7 @@ A simple list of development tools for MacOSX.
 * [Text Mate](http://macromates.com/) (Free)- OSX Missint code editor
 * [Atom](https://atom.io/) (Free) ([GitHub](https://github.com/atom/atom)) - 21s code editor
 
-# IDE's
+## IDE's
 * [NetBeans](https://netbeans.org/) (Free) - Powerful IDE for Java, HTML5, PHP, C/C++ ...
 * [Eclipse](https://eclipse.org/) (Free) - Powerful IDE for Java, PHP ,C++ ...
 * [IntelliJ](https://www.jetbrains.com/idea/) ($199) - Smart and powerful Java IDE
