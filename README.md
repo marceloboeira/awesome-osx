@@ -16,10 +16,11 @@ A simple list of development tools for MacOSX.
 * [Homebrew](http://brew.sh) (Free) ([GitHub](https://github.com/Homebrew/homebrew)) - The missing package manager ...
 * [1Password](https://agilebits.com/onepassword) ($99) - Password / Credit Card manager
 * [Spectacle](http://spectacleapp.com/) (Free) ([GitHub](https://github.com/eczarny/spectacle))- Keyboard window resizer 
-* [RescueTime](http://www.rescuetime.com/) (Freemium) - Don't waste any time
+* [f.lux](https://justgetflux.com/) (Free) - Controlling screen 'temperature'
 
 ## Terminal
 * [iTerm](https://iterm2.com/) (Free) - Powerful terminal emulator
+* [Cathode](http://www.secretgeometry.com/apps/cathode) ($7.99) - Another awesome terminal emulator
 
 ## Shell
 * [zsh](http://zsh.sourceforge.net/) (Free) - Powerful shell that operates as both an interactive shell and as a scripting language interpreter
