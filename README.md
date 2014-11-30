@@ -11,9 +11,9 @@ A simple list of development tools for MacOSX.
 * [RescueTime](http://www.rescuetime.com/) (Free) - Don't waste any time 
 * [f.lux](https://justgetflux.com/) (Free) - Controlling screen 'temperature'
 
-
 ## Terminal
 * [iTerm](https://iterm2.com/) (Free) - Powerful terminal emulator
+* [Cathode](http://www.secretgeometry.com/apps/cathode) ($7.99) - Another awesome terminal emulator
 
 ## Editors
 * [Sublime Text](http://www.sublimetext.com/3)($70) - Cool code editor
