@@ -15,6 +15,7 @@ A simple list of development tools for MacOSX.
 * [Alfred](http://www.alfredapp.com/) (Freemium) - Shortcuts manager
 * [Homebrew](http://brew.sh) (Free) ([GitHub](https://github.com/Homebrew/homebrew)) - The missing package manager ...
 * [1Password](https://agilebits.com/onepassword) ($99) - Password / Credit Card manager
+	* [SudoLikeABoss](https://github.com/ravenac95/sudolikeaboss) (Free) - Plugin to iTerm, fill passwords on your terminal with a keyboard shortcut.
 * [Spectacle](http://spectacleapp.com/) (Free) ([GitHub](https://github.com/eczarny/spectacle))- Keyboard window resizer 
 * [f.lux](https://justgetflux.com/) (Free) - Controlling screen 'temperature'
 * [Postman](http://www.getpostman.com) (Freemium) - Web Request manager, to test your web-services, API, ... 
