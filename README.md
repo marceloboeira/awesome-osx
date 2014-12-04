@@ -17,6 +17,7 @@ A simple list of development tools for MacOSX.
 * [1Password](https://agilebits.com/onepassword) ($99) - Password / Credit Card manager
 * [Spectacle](http://spectacleapp.com/) (Free) ([GitHub](https://github.com/eczarny/spectacle))- Keyboard window resizer 
 * [f.lux](https://justgetflux.com/) (Free) - Controlling screen 'temperature'
+* [Postman](http://www.getpostman.com) (Freemium) - Web Request manager, to test your web-services, API, ... 
 
 ## Terminal
 * [iTerm](https://iterm2.com/) (Free) - Powerful terminal emulator
