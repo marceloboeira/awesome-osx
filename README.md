@@ -62,6 +62,7 @@ A simple list of development tools for MacOSX.
 ## Contributors
 * [@marceloboeira](http://github.com/marceloboeira/)
 * [@gpedro](http://github.com/gpedro)
+* [@alvarowolfx](https://github.com/alvarowolfx)
 
 ## Sources
 [@gregoriokusowski](http://github.com/gregoriokusowski) gist - https://gist.github.com/gregoriokusowski/2e3861dc587bdfdf4cd1
