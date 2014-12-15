@@ -23,6 +23,8 @@ A simple list of development tools for MacOSX.
 * [f.lux](https://justgetflux.com/) (Free) - Controlling screen 'temperature'
 * [Postman](http://www.getpostman.com) (Freemium) - Web Request manager, to test your web-services, API, ... 
 * [Dash](http://kapeli.com/dash) (Freemium) - Instant offline access to API documentation sets and code snippet manager on Mac. Really awesome tools for development.
+* [Memory Clean](https://itunes.apple.com/us/app/memory-clean/id451444120?mt=12) (Freemium) - Instant offline access to API documentation sets and code snippet manager on Mac. Really awesome tools for development.
+
 
 ## Terminal
 * [iTerm](https://iterm2.com/) (Free) - Powerful terminal emulator.
@@ -61,7 +63,7 @@ A simple list of development tools for MacOSX.
 * [Pixelmator for Mac](http://www.pixelmator.com/mac) ($29.99) - Full-featured image editing app for the Mac and much more cheap than Adobe solution.
 
 ## Contributors
-* [@marceloboeira](http://github.com/marceloboeira/)
+* [@marceloboeira](http://github.com/marceloboeira)
 * [@gpedro](http://github.com/gpedro)
 * [@alvarowolfx](https://github.com/alvarowolfx)
 
