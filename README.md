@@ -23,7 +23,9 @@ A simple list of development tools for MacOSX.
 * [f.lux](https://justgetflux.com/) (Free) - Controlling screen 'temperature'
 * [Postman](http://www.getpostman.com) (Freemium) - Web Request manager, to test your web-services, API, ... 
 * [Dash](http://kapeli.com/dash) (Freemium) - Instant offline access to API documentation sets and code snippet manager on Mac. Really awesome tools for development.
-* [Memory Clean](https://itunes.apple.com/us/app/memory-clean/id451444120?mt=12) (Freemium) - Instant offline access to API documentation sets and code snippet manager on Mac. Really awesome tools for development.
+* [Memory Clean](https://itunes.apple.com/us/app/memory-clean/id451444120?mt=12) (Freemium) - RAM Manual handler, get full control of your RAM.
+* [AppCleaner](http://www.freemacsoft.net/appcleaner/) (Freemium) - Clean apps and their files.
+
 
 
 ## Terminal
