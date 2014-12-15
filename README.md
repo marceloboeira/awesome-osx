@@ -43,7 +43,8 @@ A simple list of development tools for MacOSX.
 * [Eclipse](https://eclipse.org/) (Free) - Powerful IDE for Java, PHP ,C++ ...
 * [IntelliJ](https://www.jetbrains.com/idea/) (Freemium) - Smart and powerful Java IDE.
 * [Android Studio](https://developer.android.com/sdk/installing/studio.html) (Free) Powerful IDE for Android (IntelliJ Based).
-* [WebStorm](https://www.jetbrains.com/webstorm/) (Freemium[*](https://github.com/marceloboeira/awesome-macosx-dev-tools/issues/5)) - Powerful IDE for Node.JS.
+* [WebStorm](https://www.jetbrains.com/webstorm/) ($99) - Powerful IDE for NodeJS.
+* [RubyMine](https://www.jetbrains.com/ruby/) ($99) - Powerful IDE for Ruby.
 
 ## Database
 * [Postgres App](http://postgresapp.com) (Free) - The easiest way to get started with PostgreSQL on the Mac, this way you can start/stop Postgres at the Mac OS X menubar. It comes with batteries included.
