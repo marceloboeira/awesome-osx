@@ -15,6 +15,7 @@ A simple list of development tools for MacOSX.
 * [Virtualization](#virtualization)
 * [Design](#design)
 * [Teams](#teams) 
+  * [Communication](#communication)
 * [Contributors](#contributors)
 
 ## Productivity
@@ -74,8 +75,8 @@ A simple list of development tools for MacOSX.
 ## Teams
 
 ### Communication
-* [Campfire](https://campfirenow.com/) - ampfire is a simple web-based real-time group chat tool for business. It makes real-time communication with 2-60 people as simple as visiting a web page.
-* [HipChat](http://www.hipchat.com/) - HipChat is hosted group chat and video chat built for teams. Supercharge real-time collaboration with persistent chat rooms, file sharing, and screen sharing.
+* [Campfire](https://campfirenow.com/) - Simple web-based real-time group chat tool for business. It makes real-time communication with 2-60 people as simple as visiting a web page.
+* [HipChat](http://www.hipchat.com/) - Hosted group chat and video chat built for teams. Supercharge real-time collaboration with persistent chat rooms, file sharing, and screen sharing.
 * [Sococo](https://www.sococo.com) - Remote team communication software, support video/audio and screen-sharing
 * [Slack](http://slack.com) - Team communication software with several integrations for development tools, such as github, gitlab, jenkins, ... 
 
