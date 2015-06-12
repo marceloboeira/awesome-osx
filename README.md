@@ -14,6 +14,7 @@ A simple list of development tools for MacOSX.
 * [Database](#database)
 * [Virtualization](#virtualization)
 * [Design](#design)
+* [Teams](#teams) 
 * [Contributors](#contributors)
 
 ## Productivity
@@ -70,6 +71,11 @@ A simple list of development tools for MacOSX.
 * [Sketch](http://bohemiancoding.com/sketch/) ($99) - The best software to design user interfaces and with a great community developing plugins and tutorials.
 * [Pixelmator for Mac](http://www.pixelmator.com/mac) ($29.99) - Full-featured image editing app for the Mac and much more cheap than Adobe solution.
 
+## Teams
+
+### Communication
+* [Sococo](https://www.sococo.com) - Remote team communication software, support video/audio and screen-sharing
+* [Slack](http://slack.com) - Team communication software with several integrations for development tools, such as github, gitlab, jenkins, ... 
 
 ## Contributors
 * [@marceloboeira](http://github.com/marceloboeira)
