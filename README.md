@@ -5,40 +5,46 @@ A simple list of development tools for MacOSX.
 
 ## Summary
 * [Productivity](#productivity)
+  * [Status](#status-tools)
+  * [Windows arrangers](#windows-arrangers)
 * [Terminal](#terminal)
-* [Shell](#shell)
+  * [Shell](#shell)
 * [Editors](#editors)
 * [IDE's](#ides)
 * [Database](#database)
 * [Virtualization](#virtualization)
-* [Artwork](#artwork)
+* [Design](#design)
 * [Contributors](#contributors)
 
 ## Productivity
-* [Alfred](http://www.alfredapp.com/) (Freemium) - Shortcuts manager.
 * [Homebrew](http://brew.sh) (Free) ([GitHub](https://github.com/Homebrew/homebrew)) - The missing package manager ...
 * [1Password](https://agilebits.com/onepassword) ($99) - Password / Credit Card manager
-	* [SudoLikeABoss](https://github.com/ravenac95/sudolikeaboss) (Free) - Plugin to iTerm, fill passwords on your terminal with a keyboard shortcut.
-* [Spectacle](http://spectacleapp.com/) (Free) ([GitHub](https://github.com/eczarny/spectacle))- Keyboard window resizer 
+  * [SudoLikeABoss](https://github.com/ravenac95/sudolikeaboss) (Free) - Plugin to iTerm, fill passwords on your terminal with a keyboard shortcut.
 * [f.lux](https://justgetflux.com/) (Free) - Controlling screen 'temperature'
 * [Postman](http://www.getpostman.com) (Freemium) - Web Request manager, to test your web-services, API, ... 
 * [Dash](http://kapeli.com/dash) (Freemium) - Instant offline access to API documentation sets and code snippet manager on Mac. Really awesome tools for development.
+* [Alfred](http://www.alfredapp.com/) (Freemium) - Shortcuts manager.
+
+### Windows arrangers
+  * [Spectacle](http://spectacleapp.com/) (Free) ([GitHub](https://github.com/eczarny/spectacle)) - Keyboard window resizer / arranger.
+  * [BetterSnapTool](https://itunes.apple.com/en/app/bettersnaptool/id417375580?mt=12) (Free) - Another keyboard windows resizer / arranger.
+
+### Status tools
 * [Memory Clean](https://itunes.apple.com/us/app/memory-clean/id451444120?mt=12) (Freemium) - RAM Manual handler, get full control of your RAM.
 * [AppCleaner](http://www.freemacsoft.net/appcleaner/) (Freemium) - Clean apps and their files.
 
-
-
 ## Terminal
 * [iTerm](https://iterm2.com/) (Free) - Powerful terminal emulator.
-	* [SudoLikeABoss](https://github.com/ravenac95/sudolikeaboss) (Free) - Plugin to iTerm, fill passwords on your terminal with a keyboard shortcut.
+  * [SudoLikeABoss](https://github.com/ravenac95/sudolikeaboss) (Free) - Plugin to iTerm, fill passwords on your terminal with a keyboard shortcut.
 * [Cathode](http://www.secretgeometry.com/apps/cathode) ($7.99) - Another awesome terminal emulator
 
-## Shell
+### Shell
 * [zsh](http://zsh.sourceforge.net/) (Free) - Powerful shell that operates as both an interactive shell and as a scripting language interpreter
-	* [oh-my-zsh](http://ohmyz.sh)(Free) - Oh-My-Zsh is an open source, community-driven framework for managing your ZSH configuration. It comes bundled with a ton of helpful functions, helpers, plugins and themes.
+  * [oh-my-zsh](http://ohmyz.sh) (Free) - Oh-My-Zsh is an open source, community-driven framework for managing your ZSH configuration. It comes bundled with a ton of helpful functions, helpers, plugins and themes.
+* [fish](http://fishshell.com) (Free) - Smart and user-friendly command line shell for OS X, Linux, and the rest of the family.
 
 ## Editors
-* [Sublime Text](http://www.sublimetext.com/3)(Freemium) - Cool code editor.
+* [Sublime Text](http://www.sublimetext.com/3) (Freemium) - Cool code editor.
 * [Text Mate](http://macromates.com/) (Free)- OSX Missint code editor.
 * [Atom](https://atom.io/) (Free) ([GitHub](https://github.com/atom/atom)) - 21s code editor.
 
@@ -59,10 +65,11 @@ A simple list of development tools for MacOSX.
 ## Virtualization
 * [Kitematic](https://kitematic.com/) (Free) - The easiest way to use Docker on Mac.
 
-## Artwork
+## Design
 * [Prepo](https://itunes.apple.com/br/app/prepo/id476533227?mt=12) (Freemium) - No more pain creating all necessary sizes of icons when developing a App for Android an iOS. 
 * [Sketch](http://bohemiancoding.com/sketch/) ($99) - The best software to design user interfaces and with a great community developing plugins and tutorials.
 * [Pixelmator for Mac](http://www.pixelmator.com/mac) ($29.99) - Full-featured image editing app for the Mac and much more cheap than Adobe solution.
+
 
 ## Contributors
 * [@marceloboeira](http://github.com/marceloboeira)
