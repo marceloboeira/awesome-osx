@@ -5,6 +5,7 @@ A simple list of development tools for MacOSX.
 
 ## Summary
 * [Productivity](#productivity)
+  * [Security](#security)
   * [Status](#status-tools)
   * [Windows arrangers](#windows-arrangers)
 * [Terminal](#terminal)
@@ -20,16 +21,19 @@ A simple list of development tools for MacOSX.
 
 ## Productivity
 * [Homebrew](http://brew.sh) (Free) ([GitHub](https://github.com/Homebrew/homebrew)) - The missing package manager ...
-* [1Password](https://agilebits.com/onepassword) ($99) - Password / Credit Card manager
-  * [SudoLikeABoss](https://github.com/ravenac95/sudolikeaboss) (Free) - Plugin to iTerm, fill passwords on your terminal with a keyboard shortcut.
 * [f.lux](https://justgetflux.com/) (Free) - Controlling screen 'temperature'
 * [Postman](http://www.getpostman.com) (Freemium) - Web Request manager, to test your web-services, API, ... 
 * [Dash](http://kapeli.com/dash) (Freemium) - Instant offline access to API documentation sets and code snippet manager on Mac. Really awesome tools for development.
 * [Alfred](http://www.alfredapp.com/) (Freemium) - Shortcuts manager.
 
+### Security
+* [1Password](https://agilebits.com/onepassword) ($99) - Password / Credit Card manager.
+* [SudoLikeABoss](https://github.com/ravenac95/sudolikeaboss) (Free) - Plugin to iTerm, fill passwords on your terminal with a keyboard shortcut.
+* [Authy](https://www.authy.com) (Free) - Two-Factor Authentication security solution.
+
 ### Windows arrangers
-  * [Spectacle](http://spectacleapp.com/) (Free) ([GitHub](https://github.com/eczarny/spectacle)) - Keyboard window resizer / arranger.
-  * [BetterSnapTool](https://itunes.apple.com/en/app/bettersnaptool/id417375580?mt=12) (Free) - Another keyboard windows resizer / arranger.
+* [Spectacle](http://spectacleapp.com/) (Free) ([GitHub](https://github.com/eczarny/spectacle)) - Keyboard window resizer / arranger.
+* [BetterSnapTool](https://itunes.apple.com/en/app/bettersnaptool/id417375580?mt=12) (Free) - Another keyboard windows resizer / arranger.
 
 ### Status tools
 * [Memory Clean](https://itunes.apple.com/us/app/memory-clean/id451444120?mt=12) (Freemium) - RAM Manual handler, get full control of your RAM.
