@@ -51,6 +51,8 @@ A simple list of development tools for MacOSX.
 
 ## Editors
 * [Sublime Text](http://www.sublimetext.com/3) (Freemium) - Cool code editor.
+  * [GitIgnorer](https://github.com/ExplodingCabbage/sublime-gitignorer) - Tells Sublime to obey `.gitignore` files. 
+  * [Emmet](https://github.com/sergeche/emmet-sublime) - Code snippets presets.
 * [Text Mate](http://macromates.com/) (Free)- OSX Missint code editor.
 * [Atom](https://atom.io/) (Free) ([GitHub](https://github.com/atom/atom)) - 21s code editor.
 
