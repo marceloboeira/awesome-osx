@@ -1,7 +1,6 @@
-MacOSX DevTools
+Awesome OSX
 ========================
-
-A simple list of development tools for MacOSX.
+> A simple list of cool stuff for MacOSX.
 
 ## Summary
 * [Productivity](#productivity)
