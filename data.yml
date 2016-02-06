@@ -1,0 +1,19 @@
+categories:
+ - name: Productivity
+   description: Awesome productivity tools
+   items:
+    - name: Homebrew
+      url: http://brew.sh
+      description: The missing package manager
+      price: Free
+    - name: f.lux
+      url: https://justgetflux.com
+      description: Control your screen 'temperature'
+      price: Free
+ - name: Development
+   description: Awesome tools for developers
+   items:
+    - name: Dash
+      url: http://kapeli.com/dash
+      description: Instant offline access to API documentation
+      price: Freemium
