@@ -1,4 +1,17 @@
 categories:
+ - name: Communication
+   description: Awesome productivity tools
+   items:
+     - name: Campfire
+       url: https://campfirenow.com
+       description: Simple web-based real-time group chat tool for business.
+       price: Paid
+     - name: HipChat
+       url: http://www.hipchat.com
+       description: Hosted group chat and video chat built for teams.
+     - name: Sococo
+       url: https://sococo.com
+       description: Remote team communication software, support video/audio and screen-sharing
  - name: Productivity
    description: Awesome productivity tools
    items:
