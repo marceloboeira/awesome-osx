@@ -14,14 +14,14 @@ Awesome OSX
 * [Database](#database)
 * [Virtualization](#virtualization)
 * [Design](#design)
-* [Teams](#teams) 
+* [Teams](#teams)
   * [Communication](#communication)
 * [Contributors](#contributors)
 
 ## Productivity
 * [Homebrew](http://brew.sh) (Free) ([GitHub](https://github.com/Homebrew/homebrew)) - The missing package manager ...
 * [f.lux](https://justgetflux.com/) (Free) - Controlling screen 'temperature'
-* [Postman](http://www.getpostman.com) (Freemium) - Web Request manager, to test your web-services, API, ... 
+* [Postman](http://www.getpostman.com) (Freemium) - Web Request manager, to test your web-services, API, ...
 * [Dash](http://kapeli.com/dash) (Freemium) - Instant offline access to API documentation sets and code snippet manager on Mac. Really awesome tools for development.
 * [Alfred](http://www.alfredapp.com/) (Freemium) - Shortcuts manager.
 
@@ -50,7 +50,7 @@ Awesome OSX
 
 ## Editors
 * [Sublime Text](http://www.sublimetext.com/3) (Freemium) - Cool code editor.
-  * [GitIgnorer](https://github.com/ExplodingCabbage/sublime-gitignorer) - Tells Sublime to obey `.gitignore` files. 
+  * [GitIgnorer](https://github.com/ExplodingCabbage/sublime-gitignorer) - Tells Sublime to obey `.gitignore` files.
   * [Emmet](https://github.com/sergeche/emmet-sublime) - Code snippets presets.
 * [Text Mate](http://macromates.com/) (Free)- OSX Missint code editor.
 * [Atom](https://atom.io/) (Free) ([GitHub](https://github.com/atom/atom)) - 21s code editor.
@@ -67,13 +67,13 @@ Awesome OSX
 * [Postgres App](http://postgresapp.com) (Free) - The easiest way to get started with PostgreSQL on the Mac, this way you can start/stop Postgres at the Mac OS X menubar. It comes with batteries included.
 * [Sequel Pro](http://www.sequelpro.com) (Free) - MySQL management GUI specific for Mac OS X.
 * [Sqlite Browser](http://sqlitebrowser.org/) (Free) - Sqlite management GUI with binaries included for Mac OS X.
-* [RoboMongo](http://robomongo.org/) (Free) - MongoDB management GUI mixed with the full power of the shell commands. Includes binaries for Mac OS X. 
+* [RoboMongo](http://robomongo.org/) (Free) - MongoDB management GUI mixed with the full power of the shell commands. Includes binaries for Mac OS X.
 
 ## Virtualization
 * [Kitematic](https://kitematic.com/) (Free) - The easiest way to use Docker on Mac.
 
 ## Design
-* [Prepo](https://itunes.apple.com/br/app/prepo/id476533227?mt=12) (Freemium) - No more pain creating all necessary sizes of icons when developing a App for Android an iOS. 
+* [Prepo](https://itunes.apple.com/br/app/prepo/id476533227?mt=12) (Freemium) - No more pain creating all necessary sizes of icons when developing a App for Android an iOS.
 * [Sketch](http://bohemiancoding.com/sketch/) ($99) - The best software to design user interfaces and with a great community developing plugins and tutorials.
 * [Pixelmator for Mac](http://www.pixelmator.com/mac) ($29.99) - Full-featured image editing app for the Mac and much more cheap than Adobe solution.
 
@@ -83,7 +83,7 @@ Awesome OSX
 * [Campfire](https://campfirenow.com/) - Simple web-based real-time group chat tool for business. It makes real-time communication with 2-60 people as simple as visiting a web page.
 * [HipChat](http://www.hipchat.com/) - Hosted group chat and video chat built for teams. Supercharge real-time collaboration with persistent chat rooms, file sharing, and screen sharing.
 * [Sococo](https://www.sococo.com) - Remote team communication software, support video/audio and screen-sharing
-* [Slack](http://slack.com) - Team communication software with several integrations for development tools, such as github, gitlab, jenkins, ... 
+* [Slack](http://slack.com) - Team communication software with several integrations for development tools, such as github, gitlab, jenkins, ...
 
 ## Contributors
 * [@marceloboeira](http://github.com/marceloboeira)
