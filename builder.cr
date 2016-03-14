@@ -1,31 +1,46 @@
 require "yaml"
 require "file"
 
+class Item
+  YAML.mapping({
+    name: String,
+    description: String,
+    url: String,
+    price: String
+  })
+end
+
+class Category
+  YAML.mapping({
+    name: String,
+    description: String,
+    items: Array(Item),
+  })
+end
+
+class Builder
+  YAML.mapping({
+    categories: Array(Category)
+  })
+end
+
+
 data = File.read("./data.yml")
-yaml = YAML.load(data)
+builder = Builder.from_yaml(data)
+
 content = ""
 
-if yaml.is_a?(Hash)
-  categories = yaml["categories"]
-  if categories.is_a?(Array)
-    categories.each do |category|
-      if category.is_a?(Hash)
-        content += "## #{category["name"]}\n"
-        content += "> #{category["description"]}\n\n"
+categories = builder.categories
+categories.each do |category|
+  content += "## #{category.name}\n"
+  content += "> #{category.description}\n\n"
+  items = category.items
 
-        items = category["items"]
-
-        if items.is_a?(Array)
-          items.each do |item|
-            if item.is_a?(Hash)
-              content += "* [#{item["name"]}](#{item["url"]}) (#{item["price"]}) - #{item["description"]}\n"
-            end
-          end
-        end
-      end
-      content += "\n"
-    end
+  items.each do |item|
+    content += "* [#{item.name}](#{item.url}) (#{item.price}) - #{item.description}\n"
   end
+
+  content += "\n"
 end
 
 File.write("./ITEMS.md", content)

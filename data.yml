@@ -9,9 +9,11 @@ categories:
      - name: HipChat
        url: http://www.hipchat.com
        description: Hosted group chat and video chat built for teams.
+       price: Freemium
      - name: Sococo
        url: https://sococo.com
        description: Remote team communication software, support video/audio and screen-sharing
+       price: Paid
  - name: Productivity
    description: Awesome productivity tools
    items:
