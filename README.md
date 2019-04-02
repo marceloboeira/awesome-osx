@@ -24,6 +24,7 @@ Awesome OSX
 * [Postman](http://www.getpostman.com) (Freemium) - Web Request manager, to test your web-services, API, ...
 * [Dash](http://kapeli.com/dash) (Freemium) - Instant offline access to API documentation sets and code snippet manager on Mac. Really awesome tools for development.
 * [Alfred](http://www.alfredapp.com/) (Freemium) - Shortcuts manager.
+* [Taskade](http://www.taskade.com/) (Freemium) - Minimal and sharable task lists.
 
 ### Security
 * [1Password](https://agilebits.com/onepassword) ($99) - Password / Credit Card manager.
